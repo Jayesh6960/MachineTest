@@ -7,9 +7,9 @@ http://localhost:8050/api/categories/2 <br>
 http://localhost:8050/api/categories/4 <br>
 
 <h2>Products</h2>
-http://localhost:8050/api/products/4 
-http://localhost:8050/api/products/4
-http://localhost:8050/api/products/
-http://localhost:8050/api/products/product/5
-http://localhost:8050/api/products/delete/4
-http://localhost:8050/api/products/updateproduct/5
+http://localhost:8050/api/products/4  <br>
+http://localhost:8050/api/products/4  <br>
+http://localhost:8050/api/products/  <br>
+http://localhost:8050/api/products/product/5  <br>
+http://localhost:8050/api/products/delete/4  <br>
+http://localhost:8050/api/products/updateproduct/5  <br>
